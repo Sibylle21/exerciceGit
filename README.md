@@ -1,2 +1,2 @@
-# ppnumgit
+# exerciceGit
 exercices ppnum
